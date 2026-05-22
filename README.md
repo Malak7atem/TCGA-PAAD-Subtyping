@@ -176,7 +176,6 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ## Author
 
-**[Your Name]**  
-[Your Institution / University]  
-[Your Email]  
-[Your GitHub Profile]
+**[Malak Hatem]**  
+[Nile University]  
+[M.hatem2261@nu.edu.eg]  
