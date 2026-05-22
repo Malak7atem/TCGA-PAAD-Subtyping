@@ -176,6 +176,6 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ## Author
 
-**[Malak Hatem]**  
-[Nile University]  
-[M.hatem2261@nu.edu.eg]  
+**Malak Hatem**  
+Nile University  
+M.hatem2261@nu.edu.eg  
