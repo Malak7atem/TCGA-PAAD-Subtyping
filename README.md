@@ -95,47 +95,6 @@ TCGA-PAAD-Subtyping/
     └── KEGG_dotplot.png          # KEGG enrichment
 ```
 
----
-
-## Requirements
-
-### R version
-R ≥ 4.0.0
-
-### CRAN packages
-```r
-install.packages(c("dplyr", "tibble", "ggplot2", "survival", "survminer"))
-```
-
-### Bioconductor packages
-```r
-if (!requireNamespace("BiocManager", quietly = TRUE))
-  install.packages("BiocManager")
-
-BiocManager::install(c("limma", "ComplexHeatmap", "clusterProfiler", "org.Hs.eg.db"))
-```
-
----
-
-## How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/TCGA-PAAD-Subtyping.git
-   cd TCGA-PAAD-Subtyping
-   ```
-
-2. **Place data files** in the `data/` folder (see Dataset section above)
-
-3. **Open R or RStudio** and run the pipeline
-   ```r
-   source("analysis_pipeline.R")
-   ```
-
-4. **Outputs** will be saved automatically to `figures/` and `results/`
-
----
-
 ## Key Results
 
 | Output | Description |
