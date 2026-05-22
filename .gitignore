@@ -1,0 +1,16 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Large data files (download separately from GDC portal)
+data/*.csv
+
+# Intermediate R objects
+*.rds
+*.RData
+
+# OS files
+.DS_Store
+Thumbs.db
